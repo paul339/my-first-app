@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Student Developer Pack - GitHub Education</title>
+    <meta name="description" content="The GitHub Student Developer Pack is all you need to learn how to code. Get your Pack now.">
+    
+    <link rel="stylesheet" media="screen" href="https://dwa5x7aod66zk.cloudfront.net/assets/public-0fd9990f5c6ed7007516f1199a014cf86050f03698ff9e71bec017edec571d9b.css" crossorigin="anonymous" integrity="sha256-D9mZD1xu1wB1FvEZmgFM+GBQ8DaY/55xvsAX7exXHZs=" />
+    <link rel="stylesheet" media="print" href="https://dwa5x7aod66zk.cloudfront.net/assets/print-a9082f7ad016417aca6891bd9301962f43d00fdfebb5cb114e08774e27cd5b8c.css" crossorigin="anonymous" integrity="sha256-qQgvetAWQXrKaJG9kwGWL0PQD9/rtcsRTgh3TifNW4w=" />
+    <script src="https://dwa5x7aod66zk.cloudfront.net/assets/public-bd0fae581f79744a1a51f774e251979d2ef4747341d7d065986e27599681ecf6.js" crossorigin="anonymous" integrity="sha256-vQ+uWB95dEoaUfd04lGXnS70dHNB19BlmG4nWZaB7PY="></script>
+    
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="0AiE3oQOKeEW356YKL4pA2T6DPrIyiV0o6v/5ohk4Ng2Uml/Z8pizRuJ1PYrylSc9UuM6nowEo1wxMVZ0c3Y+w==" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+        <meta name="twitter:site" content="@GitHubEducation" /><meta name="twitter:site:id" content="1943578656" /><meta name="twitter:creator" content="@GitHubEducation" /><meta name="twitter:creator:id" content="1943578656" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="GitHub Student Developer Pack" /><meta name="twitter:description" content="The best developer tools, free for students. Get your GitHub Student Developer Pack now." /><meta name="twitter:image:src" content="https://dwa5x7aod66zk.cloudfront.net/assets/pack/twitter-summary-card-image-bec1d1f933d223919ff0576af8838cffe3975633b24641e9d7b1c4317066ae24.png" /><meta name="twitter:image:width" content="1120" /><meta name="twitter:image:height" content="600" />
+  <meta property="og:site_name" content="GitHub Education" /><meta property="og:author" content="https://www.facebook.com/GitHub" /><meta property="og:url" content="https://education.github.com/pack" /><meta property="og:type" content="object" /><meta property="og:image" content="https://dwa5x7aod66zk.cloudfront.net/assets/pack/opengraph-image-c6d692948bb5fbf237b8a72d6576b4dcc84586335b522a6036904fc16ec7eccd.png" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="630" /><meta property="og:title" content="GitHub Student Developer Pack" /><meta property="og:description" content="The best developer tools, free for students. Get your GitHub Student Developer Pack now." /><meta property="fb:app_id" content="1470168793264145" />
+
+  </head>
+  <body class="_pack _index">
+    
+
+
+
+    <div class="d-none d-md-block py-2 bg-gray-dark">
+  <div class="container-lg p-responsive d-flex flex-md-justify-between">
+    <a class="d-block text-white no-underline" href="https://github.com" data-ga-click="Top bar, go to github, text:Back to GitHub.com">Back to GitHub.com</a>
+    <div class="d-flex">
+      <a class="d-block text-white no-underline mr-3" href="https://help.github.com" data-ga-click="Top bar, go to support, text:GitHub Support">GitHub Support</a>
+      <a class="d-block text-white no-underline" href="https://github.com/contact" data-ga-click="Top bar, go to contact, text:Contact GitHub">Contact GitHub</a>
+    </div>
+  </div>
+</div>
+
+<header class="py-4 bg-white border-bottom">
+  <div class="d-flex flex-column flex-md-row flex-md-items-center flex-md-justify-between container-lg p-responsive flex-items-center">
+    <h1 class="d-none"><a href="/">GitHub Education</a></h1>
+    <a href="/" class="d-block"><img class="d-inline-block" alt="GitHub Education" height="22" src="https://dwa5x7aod66zk.cloudfront.net/assets/next/wordmark-b2322266c45ea75318d0ea4481ab3c0aaa587af433ead331ba0ec402ad79fde9.svg" /></a>
+
+    <nav class="mt-3 mt-md-0">
+      <ul class="d-flex flex-wrap flex-justify-center flex-md-justify-end list-style-none">
+        <li class="d-flex flex-items-center mx-3">
+            <a href="/students">Students</a>
+        </li>
+        <li class="d-flex flex-items-center mx-3">
+            <a href="/teachers">Teachers</a>
+        </li>
+        <li class="d-flex flex-items-center mx-3">
+            <a href="/partners/schools">Schools</a>
+        </li>
+
+        <li class="d-flex flex-items-center ml-3">
+            <a href="/events">Events</a>
+        </li>
+
+          <li class="d-none d-lg-inline-block ml-5">
+            <a class="btn btn-outline" href="/benefits">Join GitHub Education</a>
+          </li>
+
+      </ul>
+    </nav>
+  </div>
+</header>
+
+
+    
+
+    
+
+<div class="container-lg py-4 py-md-6 text-center">
+  <div class="p-responsive pb-4">
+    <img class="col-5 col-sm-3 col-lg-2 mx-auto my-4" src="https://dwa5x7aod66zk.cloudfront.net/assets/sdp-backpack-a64038716bf134f45e809ff86b9611fb97e41bbd2ccfa3181da73cf164d3c200.png" />
+
+    <nav aria-label="Breadcrumb">
+      <ol>
+        <li class="breadcrumb-item text-small"><a href="/">Home</a></li>
+        <li class="breadcrumb-item text-small"><a href="/students">Students</a></li>
+        <li class="breadcrumb-item breadcrumb-item-selected text-small text-gray" aria-current="page">Student Developer Pack</li>
+      </ol>
+    </nav>
+
+    <h1 class="alt-h1 lh-condensed my-2 col-md-10 mx-auto">Learn to ship software like a pro.</h1>
+    <p class="alt-lead text-gray mb-3">There's no substitute for hands-on experience, but for most students, real world tools can be cost prohibitive. That's why we created the GitHub Student Developer Pack with some of our partners and friends: to give students free access to the best developer tools in one place so they can learn by doing.</p>
+
+    <div class="">
+      <a href="/pack/offers" class="f4 btn btn-large btn-blue mx-auto mt-3">Get your Pack</a>
+    </div>
+    <div class="mt-3 d-flex flex-items-start flex-justify-center">
+      <div class="d-inline twitter-share-button mr-2">
+        <a href="https://twitter.com/share" class="twitter-share-button" data-text="The best developer tools, free for students:" data-url="https://education.github.com/pack" data-via="githubeducation">Tweet</a>
+      </div>
+      <div class="fb-like d-inline" data-href="https://education.github.com/pack" data-width="80px" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+      <div id="fb-root"></div>
+      <script>(function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=1470168793264145&version=v2.0";
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));</script>
+    </div>
+  </div>
+</div>
+
+<div class="border-top border-bottom border-gray-light" style="background: linear-gradient(#ffffff, #fafafa);">
+  <div class="container-lg p-responsive py-6 f4">
+    <h2 class="alt-h2 text-center">The tools</h2>
+
+    <dl class="d-md-flex flex-wrap gutter-sm pt-3">
+      <div class="col-md-6 col-lg-4 mb-3 mb-sm-5">
+        <div class="height-full rounded-1 box-shadow-medium bg-white p-3 p-sm-5">
+          <dt id="algolia" class="text-center">
+            <span class="d-none">Algolia</span>
+            <img alt="Algolia" class="width-fit col-sm-8 col-md-12 mx-auto" src="https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-algolia-ffdda14127f9a76456d8730bb6a632ab41054f529577a17ce8635de3cade9559.jpg" />
+          </dt>
+          <dd>
+            <p class="mb-3">Hosted search API that provides support from front end to back end frameworks and libraries. </p>
+              <p class="f5 text-gray"><span class="State State--small State--green mr-1">Benefit</span> 100k records and 1 million operations (normally $150/month), valid for 1 year.</p>
+          </dd>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-3 mb-sm-5">
+        <div class="height-full rounded-1 box-shadow-medium bg-white p-3 p-sm-5">
+          <dt id="atom" class="text-center">
+            <span class="d-none">Atom</span>
+            <img alt="Atom" class="width-fit col-sm-8 col-md-12 mx-auto" src="https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-atom-b2600fd58b4ab395d398afb5af008d2e8596282321ba22f0becbf34383e545dc.jpg" />
+          </dt>
+          <dd>
+            <p class="mb-3">A hackable text editor for the 21st Century</p>
+              <p class="f5 text-gray"><span class="State State--small State--green mr-1">Benefit</span> Open Source by GitHub, free for everyone</p>
+          </dd>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-3 mb-sm-5">
+        <div class="height-full rounded-1 box-shadow-medium bg-white p-3 p-sm-5">
+          <dt id="aws-educate" class="text-center">
+            <span class="d-none">AWS Educate</span>
+            <img alt="AWS Educate" class="width-fit col-sm-8 col-md-12 mx-auto" src="https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-aws-educate-46363e7dc038b3e8f8ca342564870868e5c95e2790b54033ced3b8ab8ddfd96e.jpg" />
+          </dt>
+          <dd>
+            <p class="mb-3">Access to the AWS cloud, free training, and collaboration resources</p>
+              <p class="f5 text-gray"><span class="State State--small State--green mr-1">Benefit</span> GitHub Student Developer Pack members receive up to $110 in bonus AWS credits for a total of $75-$150</p>
+          </dd>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-3 mb-sm-5">
+        <div class="height-full rounded-1 box-shadow-medium bg-white p-3 p-sm-5">
+          <dt id="bitnami" class="text-center">
+            <span class="d-none">Bitnami</span>
+            <img alt="Bitnami" class="width-fit col-sm-8 col-md-12 mx-auto" src="https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-bitnami-a3752e3ec5ba0ed5833bf2dfced7df37e3bb817543dfa40fb71c3cd1320b4f2c.jpg" />
+          </dt>
+          <dd>
+            <p class="mb-3">Install cloud applications in a single click</p>
+              <p class="f5 text-gray"><span class="State State--small State--green mr-1">Benefit</span> Business 3 plan (normally $49/month) free for one year</p>
+          </dd>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-3 mb-sm-5">
+        <div class="height-full rounded-1 box-shadow-medium bg-white p-3 p-sm-5">
+          <dt id="cartodb" class="text-center">
+            <span class="d-none">CARTO</span>
+            <img alt="CARTO" class="width-fit col-sm-8 col-md-12 mx-auto" src="https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-cartodb-5e3e0e113168e937bbb78dbd6d163a118e44d540a142ce936e5b50169105b632.jpg" />
+          </dt>
+          <dd>
+            <p class="mb-3">An open and powerful platform for spatial data analysis, visualization, and application creation.</p>
+              <p class="f5 text-gray"><span class="State State--small State--green mr-1">Benefit</span> Free account upgrades with increased database storage, real time data, Location Data Services Credits, and premium features for 2 years.</p>
+          </dd>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-3 mb-sm-5">
+        <div class="height-full rounded-1 box-shadow-medium bg-white p-3 p-sm-5">
+          <dt id="datadog" class="text-center">
+            <span class="d-none">Datadog</span>
+            <img alt="Datadog" class="width-fit col-sm-8 col-md-12 mx-auto" src="https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-datadog-cf0a919b6a0d96b858ba497851bc8ceb4b5997e668054818700dc44a517c057d.jpg" />
+          </dt>
+          <dd>
+            <p class="mb-3">Cloud-based infrastructure monitoring</p>
+              <p class="f5 text-gray"><span class="State State--small State--green mr-1">Benefit</span> Pro Account, including 10 servers. Free for 2 years.</p>
+          </dd>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-3 mb-sm-5">
+        <div class="height-full rounded-1 box-shadow-medium bg-white p-3 p-sm-5">
+          <dt id="digitalocean" class="text-center">
+            <span class="d-none">DigitalOcean</span>
+            <img alt="DigitalOcean" class="width-fit col-sm-8 col-md-12 mx-auto" src="https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-digitalocean-3d328c1d6619d314d47aab1259c1235b1339c343e12df62a688076bf6ceac866.jpg" />
+          </dt>
+          <dd>
+            <p class="mb-3">Simple cloud hosting, built for developers</p>
+              <p class="f5 text-gray"><span class="State State--small State--green mr-1">Benefit</span> $50 in platform credit for new users</p>
+          </dd>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-3 mb-sm-5">
+        <div class="height-full rounded-1 box-shadow-medium bg-white p-3 p-sm-5">
+          <dt id="flatiron" class="text-center">
+            <span class="d-none">Flatiron School</span>
+            <img alt="Flatiron School" class="width-fit col-sm-8 col-md-12 mx-auto" src="https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-flatiron-53cac58d609c84ef4f277b22ae5624485d097bca3f63e02f5ba188f5de0e3f4a.jpg" />
+          </dt>
+          <dd>
+            <p class="mb-3">Learn Web Development from the premier coding bootcamp for launching developers.</p>
+              <p class="f5 text-gray"><span class="State State--small State--green mr-1">Benefit</span> Free one-month membership ($149 value) to Community-Powered Bootcamp: a proven online Web Development course with a curated community of learners.</p>
+          </dd>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-3 mb-sm-5">
+        <div class="height-full rounded-1 box-shadow-medium bg-white p-3 p-sm-5">
+          <dt id="github" class="text-center">
+            <span class="d-none">GitHub</span>
+            <img alt="GitHub" class="width-fit col-sm-8 col-md-12 mx-auto" src="https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-github-fe55a081ff239877f791f5882f9c3cddc371653c88d9b06f504ea10f453996ed.jpg" />
+          </dt>
+          <dd>
+            <p class="mb-3">Powerful collaboration, code review, and code management</p>
+              <p class="f5 text-gray"><span class="State State--small State--green mr-1">Benefit</span> Unlimited free public and private repositories.</p>
+          </dd>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-3 mb-sm-5">
+        <div class="height-full rounded-1 box-shadow-medium bg-white p-3 p-sm-5">
+          <dt id="ghdesktop" class="text-center">
+            <span class="d-none">GitHub Desktop</span>
+            <img alt="GitHub Desktop" class="width-fit col-sm-8 col-md-12 mx-auto" src="https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-ghdesktop-40ea908c1b55fd3e6356874e76bca24d5d0877001f4fdff29f34c02eacc35a9e.jpg" />
+          </dt>
+          <dd>
+            <p class="mb-3">Reduces frustration and makes Git and GitHub workflows more approachable.</p>
+              <p class="f5 text-gray"><span class="State State--small State--green mr-1">Benefit</span> Open Source by GitHub, free for everyone</p>
+          </dd>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-3 mb-sm-5">
+        <div class="height-full rounded-1 box-shadow-medium bg-white p-3 p-sm-5">
+          <dt id="gitkraken" class="text-center">
+            <span class="d-none">GitKraken</span>
+            <img alt="GitKraken" class="width-fit col-sm-8 col-md-12 mx-auto" src="https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-gitkraken-c292786ac0b639afcda0a4d8531869e87cde5e40e255fe8684b0a19add839edd.jpg" />
+          </dt>
+          <dd>
+            <p class="mb-3">Legendary cross-platform Git client that integrates with GitHub.</p>
+              <p class="f5 text-gray"><span class="State State--small State--green mr-1">Benefit</span> Free Pro account for 1 year (normally $49/year).</p>
+          </dd>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-3 mb-sm-5">
+        <div class="height-full rounded-1 box-shadow-medium bg-white p-3 p-sm-5">
+          <dt id="gitkraken-globoards" class="text-center">
+            <span class="d-none">GitKraken Glo</span>
+            <img alt="GitKraken Glo" class="width-fit col-sm-8 col-md-12 mx-auto" src="https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-gitkraken-globoards-3c4ea346518b221b31073823bad9809a4645d2855518a272eb93fc3b3da2ec00.jpg" />
+          </dt>
+          <dd>
+            <p class="mb-3">Legendary task tracking boards that sync in real-time with GitHub Issues</p>
+              <p class="f5 text-gray"><span class="State State--small State--green mr-1">Benefit</span> Free Pro account for 1 year (normally $49/year).</p>
+          </dd>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-3 mb-sm-5">
+        <div class="height-full rounded-1 box-shadow-medium bg-white p-3 p-sm-5">
+          <dt id="heroku" class="text-center">
+            <span class="d-none">Heroku</span>
+            <img alt="Heroku" class="width-fit col-sm-8 col-md-12 mx-auto" src="https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-heroku-9edb0d3ba7a8b154d3b68a5adfda931a6e5f7bb39284d0cae4843cd1604e3e9f.jpg" />
+          </dt>
+          <dd>
+            <p class="mb-3">A flexible, easy-to-use platform to deploy, run, and manage your apps.</p>
+              <p class="f5 text-gray"><span class="State State--small State--green mr-1">Benefit</span> One free Hobby Dyno for up to two years (valued at $84/year).</p>
+          </dd>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-3 mb-sm-5">
+        <div class="height-full rounded-1 box-shadow-medium bg-white p-3 p-sm-5">
+          <dt id="jetbrains" class="text-center">
+            <span class="d-none">JetBrains</span>
+            <img alt="JetBrains" class="width-fit col-sm-8 col-md-12 mx-auto" src="https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-jetbrains-f8afd8b5c788367a5a6cfb33a70a8741be61e0c8b810c374a5d505f1466751a2.jpg" />
+          </dt>
+          <dd>
+            <p class="mb-3">Professional desktop IDEs: IntelliJ IDEA, PyCharm, and more</p>
+              <p class="f5 text-gray"><span class="State State--small State--green mr-1">Benefit</span> A free subscription for students, to be renewed annually.</p>
+          </dd>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-3 mb-sm-5">
+        <div class="height-full rounded-1 box-shadow-medium bg-white p-3 p-sm-5">
+          <dt id="namecheap" class="text-center">
+            <span class="d-none">Namecheap</span>
+            <img alt="Namecheap" class="width-fit col-sm-8 col-md-12 mx-auto" src="https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-namecheap-7ecd22457a4ee5617490ba4cc16b1c15ee97c7ff87d5c47cea0352f7b87ab2b8.jpg" />
+          </dt>
+          <dd>
+            <p class="mb-3">Affordable registration, hosting, and domain management</p>
+              <p class="f5 text-gray"><span class="State State--small State--green mr-1">Benefit</span> One year SSL certificate (normally $9/year)</p>
+              <p class="f5 text-gray"><span class="State State--small State--green mr-1">Benefit</span> One year domain name registration on the .me TLD (normally $18.99/year)</p>
+          </dd>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-3 mb-sm-5">
+        <div class="height-full rounded-1 box-shadow-medium bg-white p-3 p-sm-5">
+          <dt id="sendgrid" class="text-center">
+            <span class="d-none">SendGrid</span>
+            <img alt="SendGrid" class="width-fit col-sm-8 col-md-12 mx-auto" src="https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-sendgrid-2b9a140db728178d8259de852ba42eb5e157b470933b485b962ea3725322d820.jpg" />
+          </dt>
+          <dd>
+            <p class="mb-3">Email infrastructure as a service</p>
+              <p class="f5 text-gray"><span class="State State--small State--green mr-1">Benefit</span> Student plan 15K free emails/month (normally limited to 200 free emails/day) while you&#39;re a student</p>
+          </dd>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-3 mb-sm-5">
+        <div class="height-full rounded-1 box-shadow-medium bg-white p-3 p-sm-5">
+          <dt id="sentry" class="text-center">
+            <span class="d-none">Sentry</span>
+            <img alt="Sentry" class="width-fit col-sm-8 col-md-12 mx-auto" src="https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-sentry-d34ca8315062bbf7780dd021a35cee6bdf69873ff624454e6a6a5f7d4ec5c7ea.jpg" />
+          </dt>
+          <dd>
+            <p class="mb-3">Track errors in every language, framework, and library</p>
+              <p class="f5 text-gray"><span class="State State--small State--green mr-1">Benefit</span> 500,000 events/month with unlimited projects and members while you&#39;re a student</p>
+          </dd>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-3 mb-sm-5">
+        <div class="height-full rounded-1 box-shadow-medium bg-white p-3 p-sm-5">
+          <dt id="stripe" class="text-center">
+            <span class="d-none">Stripe</span>
+            <img alt="Stripe" class="width-fit col-sm-8 col-md-12 mx-auto" src="https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-stripe-237d6b07f39b984f738aa58a92c9cb3c4a46856088cd344292db6172fd2ca74f.jpg" />
+          </dt>
+          <dd>
+            <p class="mb-3">Web and mobile payments, built for developers</p>
+              <p class="f5 text-gray"><span class="State State--small State--green mr-1">Benefit</span> Waived transaction fees on first $1000 in revenue processed</p>
+          </dd>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-3 mb-sm-5">
+        <div class="height-full rounded-1 box-shadow-medium bg-white p-3 p-sm-5">
+          <dt id="taplytics" class="text-center">
+            <span class="d-none">Taplytics</span>
+            <img alt="Taplytics" class="width-fit col-sm-8 col-md-12 mx-auto" src="https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-taplytics-3e7ec081211316553669120b00ebd1d1e2eed789ea0988ceb3277034ca99f116.jpg" />
+          </dt>
+          <dd>
+            <p class="mb-3">Dynamic A/B testing, smart push notifications and custom analytics for native mobile apps</p>
+              <p class="f5 text-gray"><span class="State State--small State--green mr-1">Benefit</span> Complete access to the suite of tools for native mobile apps. Unlimited access to the platform free for 6 months.</p>
+          </dd>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-3 mb-sm-5">
+        <div class="height-full rounded-1 box-shadow-medium bg-white p-3 p-sm-5">
+          <dt id="thinkful" class="text-center">
+            <span class="d-none">Thinkful</span>
+            <img alt="Thinkful" class="width-fit col-sm-8 col-md-12 mx-auto" src="https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-thinkful-5729d69105c1b552a9750da30157674bcc5f8513c42cb400ae3bf76c4f246cbc.jpg" />
+          </dt>
+          <dd>
+            <p class="mb-3">Learn Fundamentals of Web Development to launch your career as a developer</p>
+              <p class="f5 text-gray"><span class="State State--small State--green mr-1">Benefit</span> One month of access to a web development course that will get you started with HTML/CSS, JavaScript, and developer tools. Includes access to online office hours with experienced developers for feedback on your work and help when you need it.</p>
+          </dd>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-3 mb-sm-5">
+        <div class="height-full rounded-1 box-shadow-medium bg-white p-3 p-sm-5">
+          <dt id="transifex" class="text-center">
+            <span class="d-none">Transifex</span>
+            <img alt="Transifex" class="width-fit col-sm-8 col-md-12 mx-auto" src="https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-transifex-ed22a1a1625990d51b166ba7586e2dee902c059599bb8eba08210075f6fddca1.jpg" />
+          </dt>
+          <dd>
+            <p class="mb-3">Localization platform that easily integrates with your code base</p>
+              <p class="f5 text-gray"><span class="State State--small State--green mr-1">Benefit</span> One year free of the Starter plan, a $99/month value. Get 50,000 hosted words, unlimited projects, and access to translation partners to bring your software to a global market from the start.</p>
+          </dd>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-3 mb-sm-5">
+        <div class="height-full rounded-1 box-shadow-medium bg-white p-3 p-sm-5">
+          <dt id="travis" class="text-center">
+            <span class="d-none">Travis CI</span>
+            <img alt="Travis CI" class="width-fit col-sm-8 col-md-12 mx-auto" src="https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-travis-e2f839c66f8d7138d47843053872935cee7c534f3750421f2c19e483fb75f040.jpg" />
+          </dt>
+          <dd>
+            <p class="mb-3">Continuous integration platform for open source and private projects</p>
+              <p class="f5 text-gray"><span class="State State--small State--green mr-1">Benefit</span> Private builds (normally $69/month) while you&#39;re a student</p>
+          </dd>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-3 mb-sm-5">
+        <div class="height-full rounded-1 box-shadow-medium bg-white p-3 p-sm-5">
+          <dt id="unreal" class="text-center">
+            <span class="d-none">Unreal Engine</span>
+            <img alt="Unreal Engine" class="width-fit col-sm-8 col-md-12 mx-auto" src="https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-unreal-f6cc4143418ae22d5a7242fe372628ae68d3211e836a468207239f6033c96495.jpg" />
+          </dt>
+          <dd>
+            <p class="mb-3">A complete suite of game development tools for PC, console, mobile, web and VR</p>
+              <p class="f5 text-gray"><span class="State State--small State--green mr-1">Benefit</span> Unreal Engine while you&#39;re a student</p>
+          </dd>
+        </div>
+      </div>
+    </dl>
+  </div>
+</div>
+
+<div class="bg-gray-dark">
+  <div class="container-lg text-white text-center p-responsive py-6">
+    <div class="py-5">
+      <h2 class="alt-h2 lh-condensed mb-2">Want to offer your product in the GitHub Student Developer&nbsp;Pack?</h2>
+      <p class="alt-lead text-white mb-2 mx-auto col-md-10">If your company produces developer tools and wants to be included in the Pack, <a href="https://github.com/contact" class="text-white">pass us a note</a>.</p>
+      <a href="https://github.com/contact" class="btn btn-large btn-transparent mt-3">Contact us</a>
+    </div>
+  </div>
+</div>
+
+<div class="f4 mt-3 pt-6">
+  <div class="container-lg p-responsive py-6">
+    <div class="text-center mb-5">
+      <img class="width-fit mb-5" src="https://dwa5x7aod66zk.cloudfront.net/assets/photos/hackathon-264568facbe54b449d1f6abe1b00422bd49cd3ab34700d22285273f40bd652d1.jpg" />
+
+      <h2 class="alt-h2 lh-condensed mb-2">Major League Hacking is the official student hackathon&nbsp;league</h2>
+
+      <div class="container-md mx-auto">
+        <p class="alt-lead text-gray">Learn, build, and share at hackathons every weekend of the semester with the latest technologies, best mentors, and most creative student hackers in the world.</p>
+        <a href="http://mlh.io/events" class="btn btn-large btn-outline mt-2">Find a hackathon</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="bg-gray-light border-top border-bottom border-gray-light">
+  <div class="container-lg f4 py-6">
+    <div class="d-md-flex gutter-md-spacious p-responsive py-6">
+      <div class="col-md-6">
+        <h2 class="alt-h3 lh-condensed mb-2">Eligibility requirements</h2>
+        <p>If you're a student aged 13+ and enrolled in a degree or diploma granting course of study, the GitHub Student Developer Pack is for you. All you need is a school-issued email address, valid student identification card, or other official proof of enrollment.</p>
+      </div>
+
+      <div class="col-md-6">
+        <h2 class="alt-h3 lh-condensed mb-2">Get your Pack</h2>
+        <p>To get access to the GitHub Student Developer Pack, we'll need to verify your student status. Sign up using the form and we'll send you an email once you've been verified.</p>
+        <a href="/pack/offers" class="btn btn-large btn-blue mt-2">Get your Pack</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+    <div class="container-lg p-responsive" role="contentinfo">
+  <div class="d-flex flex-wrap gutter py-6 my-6">
+    <div class="col-12 col-md-2 mb-3">
+
+
+      <p class="text-gray alt-text-small">
+        <svg class="octicon octicon-logo-github d-block width-fit" viewBox="0 0 45 16" width="67" height="24" version="1.1" aria-hidden="true"><path d="M8.64 5.19H4.88c-0.11 0-0.19 0.08-0.19 0.17v1.84c0 0.09 0.08 0.17 0.19 0.17h1.47v2.3s-0.33 0.11-1.25 0.11c-1.08 0-2.58-0.39-2.58-3.7s1.58-3.73 3.05-3.73c1.27 0 1.81 0.22 2.17 0.33 0.11 0.03 0.2-0.08 0.2-0.17l0.42-1.78c0-0.05-0.02-0.09-0.06-0.14-0.14-0.09-1.02-0.58-3.2-0.58C2.58 0 0 1.06 0 6.2s2.95 5.92 5.44 5.92c2.06 0 3.31-0.89 3.31-0.89 0.05-0.02 0.06-0.09 0.06-0.13V5.36c0-0.09-0.08-0.17-0.19-0.17h0.02zM27.7 0.44h-2.13c-0.09 0-0.17 0.08-0.17 0.17v4.09h-3.31V0.61c0-0.09-0.08-0.17-0.17-0.17h-2.13c-0.09 0-0.17 0.08-0.17 0.17v11.11c0 0.09 0.09 0.17 0.17 0.17h2.13c0.09 0 0.17-0.08 0.17-0.17V6.97h3.31l-0.02 4.75c0 0.09 0.08 0.17 0.17 0.17h2.13c0.09 0 0.17-0.08 0.17-0.17V0.61c0-0.09-0.08-0.17-0.17-0.17h0.02zM11.19 0.69c-0.77 0-1.38 0.61-1.38 1.38s0.61 1.38 1.38 1.38c0.75 0 1.36-0.61 1.36-1.38s-0.61-1.38-1.36-1.38z m1.22 3.55c0-0.09-0.08-0.17-0.17-0.17H10.11c-0.09 0-0.17 0.09-0.17 0.2 0 0 0 6.17 0 7.34 0 0.2 0.13 0.27 0.3 0.27 0 0 0.91 0 1.92 0 0.2 0 0.25-0.09 0.25-0.27 0-0.39 0-7.36 0-7.36v-0.02z m23.52-0.16h-2.09c-0.11 0-0.17 0.08-0.17 0.19v5.44s-0.55 0.39-1.3 0.39-0.97-0.34-0.97-1.09c0-0.73 0-4.75 0-4.75 0-0.09-0.08-0.17-0.17-0.17h-2.14c-0.09 0-0.17 0.08-0.17 0.17 0 0 0 2.91 0 5.11s1.23 2.75 2.92 2.75c1.39 0 2.52-0.77 2.52-0.77s0.05 0.39 0.08 0.45c0.02 0.05 0.09 0.09 0.16 0.09h1.34c0.11 0 0.17-0.08 0.17-0.17l0.02-7.47c0-0.09-0.08-0.17-0.19-0.17z m5.77-0.25c-1.2 0-2.02 0.53-2.02 0.53V0.59c0-0.09-0.08-0.17-0.17-0.17h-2.13c-0.09 0-0.17 0.08-0.17 0.17l-0.02 11.11c0 0.09 0.09 0.17 0.19 0.17h1.48c0.06 0 0.11-0.02 0.14-0.08 0.05-0.06 0.09-0.52 0.09-0.52s0.88 0.83 2.52 0.83c1.94 0 3.05-0.98 3.05-4.41s-1.77-3.88-2.97-3.88z m-0.83 6.27c-0.73-0.02-1.22-0.36-1.22-0.36V6.22s0.48-0.3 1.08-0.34c0.77-0.08 1.5 0.16 1.5 1.97 0 1.91-0.33 2.28-1.36 2.25z m-22.33-0.05c-0.09 0-0.33 0.05-0.58 0.05-0.78 0-1.05-0.36-1.05-0.83s0-3.13 0-3.13h1.59c0.09 0 0.16-0.08 0.16-0.19V4.25c0-0.09-0.08-0.17-0.16-0.17h-1.59V1.97c0-0.08-0.05-0.13-0.14-0.13H14.61c-0.09 0-0.14 0.05-0.14 0.13v2.17s-1.09 0.27-1.16 0.28c-0.08 0.02-0.13 0.09-0.13 0.17v1.36c0 0.11 0.08 0.19 0.17 0.19h1.11s0 1.44 0 3.28c0 2.44 1.7 2.69 2.86 2.69 0.53 0 1.17-0.17 1.27-0.22 0.06-0.02 0.09-0.09 0.09-0.16v-1.5c0-0.11-0.08-0.19-0.17-0.19h0.02z"></path></svg>
+        &copy; 2019
+      </p>
+    </div>
+    <div class="col-6 col-md-2 mb-3 pr-3">
+      <h4 class="mb-2">Features</h4>
+      <ul class="list-style-none text-gray">
+        <li class="lh-condensed mb-2"><a href="//github.com/features#code-review" class="muted-link alt-text-small">Code review</a></li>
+        <li class="lh-condensed mb-2"><a href="//github.com/features#project-management" class="muted-link alt-text-small">Project management</a></li>
+        <li class="lh-condensed mb-2"><a href="//github.com/features#integrations" class="muted-link alt-text-small">Integrations</a></li>
+        <li class="lh-condensed mb-2"><a href="//github.com/features#community-management" class="muted-link alt-text-small">Community</a></li>
+        <li class="lh-condensed mb-2"><a href="//github.com/features#documentation" class="muted-link alt-text-small">Documentation</a></li>
+        <li class="lh-condensed mb-2"><a href="//github.com/features#code-hosting" class="muted-link alt-text-small">Code hosting</a></li>
+      </ul>
+    </div>
+    <div class="col-6 col-md-2 mb-3 pr-3">
+      <h4 class="mb-2">Platform</h4>
+      <ul class="list-style-none">
+        <li class="lh-condensed mb-2"><a href="https://atom.io" class="muted-link alt-text-small">Atom</a></li>
+        <li class="lh-condensed mb-2"><a href="http://electron.atom.io/" class="muted-link alt-text-small">Electron</a></li>
+        <li class="lh-condensed mb-2"><a href="https://desktop.github.com/" class="muted-link alt-text-small">GitHub Desktop</a></li>
+        <li class="lh-condensed mb-2"><a href="https://developer.github.com/" data-ga-click="Footer, go to api, text:api" class="muted-link alt-text-small">Developers</a></li>
+      </ul>
+    </div>
+    <div class="col-6 col-md-2 mb-3 pr-3">
+      <h4 class="mb-2">Community</h4>
+      <ul class="list-style-none">
+        <li class="lh-condensed mb-2"><a href="//github.com/personal" class="muted-link alt-text-small">Personal</a></li>
+        <li class="lh-condensed mb-2"><a href="//github.com/open-source" class="muted-link alt-text-small">Open source</a></li>
+        <li class="lh-condensed mb-2"><a href="//github.com/business" class="muted-link alt-text-small">For Business</a></li>
+        <li class="lh-condensed mb-2"><a href="https://education.github.com/" class="muted-link alt-text-small">For Education</a></li>
+        <li class="lh-condensed mb-2"><a href="https://community.github.com/" class="muted-link alt-text-small">Sponsorships</a></li>
+      </ul>
+    </div>
+    <div class="col-6 col-md-2 mb-3 pr-3">
+      <h4 class="mb-2">Company</h4>
+      <ul class="list-style-none">
+        <li class="lh-condensed mb-2"><a href="//github.com/about/" class="muted-link alt-text-small">About</a></li>
+        <li class="lh-condensed mb-2"><a href="https://blog.github.com" class="muted-link alt-text-small">Blog</a></li>
+        <li class="lh-condensed mb-2"><a href="//github.com/business/customers" class="muted-link alt-text-small">Customers</a></li>
+        <li class="lh-condensed mb-2"><a href="//github.com/about/careers" class="muted-link alt-text-small">Careers</a></li>
+        <li class="lh-condensed mb-2"><a href="//github.com/about/press" class="muted-link alt-text-small">Press</a></li>
+        <li class="lh-condensed mb-2"><a href="https://shop.github.com" class="muted-link alt-text-small">Shop</a></li>
+      </ul>
+    </div>
+    <div class="col-6 col-md-2 mb-3 pr-3">
+      <h4 class="mb-2">Resources</h4>
+      <ul class="list-style-none">
+        <li class="lh-condensed mb-2"><a href="https://github.com/contact/" class="muted-link alt-text-small">Contact</a></li>
+        <li class="lh-condensed mb-2"><a href="https://help.github.com/" class="muted-link alt-text-small">Help</a></li>
+        <li class="lh-condensed mb-2"><a href="https://status.github.com/" class="muted-link alt-text-small">Status</a></li>
+        <li class="lh-condensed mb-2"><a href="https://help.github.com/articles/github-terms-of-service/" class="muted-link alt-text-small">Terms</a></li>
+        <li class="lh-condensed mb-2"><a href="https://help.github.com/articles/github-privacy-statement/" class="muted-link alt-text-small">Privacy</a></li>
+        <li class="lh-condensed mb-2"><a href="https://github.com/security" class="muted-link alt-text-small">Security</a></li>
+        <li class="lh-condensed mb-2"><a href="https://services.github.com/" class="muted-link alt-text-small">Training</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-3769691-32', 'github.com');
+  ga('send', 'pageview');
+
+</script>
+
+      <script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+  <script type="text/javascript">
+    twttr.conversion.trackPid('l4xyz');
+  </script>
+  <noscript>
+    <img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l4xyz&p_id=Twitter" />
+    <img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l4xyz&p_id=Twitter" />
+  </noscript>
+
+  </body>
+</html>
+≤Iïâ^      \k∏Y\k∏¢@´       "    :https://education.github.com/pack necko:classified 1 strongly-framed 1 security-info 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 request-method GET response-head HTTP/1.1 200 OK
+Server: Cowboy
+Date: Tue, 19 Feb 2019 08:03:42 GMT
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Referrer-Policy: strict-origin-when-cross-origin
+Content-Security-Policy: default-src 'self' dwa5x7aod66zk.cloudfront.net; object-src 'self'; frame-src *.vimeo.com platform.twitter.com connect.facebook.net *.facebook.com speakerdeck.com; connect-src 'self' github-education-web.s3.amazonaws.com *.tiles.mapbox.com *.clearbit.com www.google.com *.githubusercontent.com; img-src 'self' blob: dwa5x7aod66zk.cloudfront.net data: github.com *.tiles.mapbox.com *.clearbit.com avatars.githubusercontent.com user-images.githubusercontent.com github-education-web.s3.amazonaws.com www.google-analytics.com analytics.twitter.com t.com *.facebook.com *.twitter.com *.youtube.com; font-src 'self' dwa5x7aod66zk.cloudfront.net; script-src 'self' dwa5x7aod66zk.cloudfront.net 'unsafe-eval' 'unsafe-inline' www.google.com www.google-analytics.com api.demandbase.com speakerdeck.com platform.twitter.com connect.facebook.net *.facebook.com s3-eu-west-1.amazonaws.com/share.typeform.com/* *.github.com; style-src 'self' dwa5x7aod66zk.cloudfront.net 'unsafe-inline' www.google.com ajax.googleapis.com *.github.com
+Content-Type: text/html; charset=utf-8
+Etag: W/"91acf2e866b573b24a231715cedc1555"
+Cache-Control: max-age=0, private, must-revalidate
+X-Request-Id: b1e53f4d-ea61-48ad-a12b-df0eac3f688e
+X-Runtime: 0.057378
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Via: 1.1 vegur
+ original-response-headers Server: Cowboy
+Date: Tue, 19 Feb 2019 08:03:42 GMT
+Connection: keep-alive
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Referrer-Policy: strict-origin-when-cross-origin
+Content-Security-Policy: default-src 'self' dwa5x7aod66zk.cloudfront.net; object-src 'self'; frame-src *.vimeo.com platform.twitter.com connect.facebook.net *.facebook.com speakerdeck.com; connect-src 'self' github-education-web.s3.amazonaws.com *.tiles.mapbox.com *.clearbit.com www.google.com *.githubusercontent.com; img-src 'self' blob: dwa5x7aod66zk.cloudfront.net data: github.com *.tiles.mapbox.com *.clearbit.com avatars.githubusercontent.com user-images.githubusercontent.com github-education-web.s3.amazonaws.com www.google-analytics.com analytics.twitter.com t.com *.facebook.com *.twitter.com *.youtube.com; font-src 'self' dwa5x7aod66zk.cloudfront.net; script-src 'self' dwa5x7aod66zk.cloudfront.net 'unsafe-eval' 'unsafe-inline' www.google.com www.google-analytics.com api.demandbase.com speakerdeck.com platform.twitter.com connect.facebook.net *.facebook.com s3-eu-west-1.amazonaws.com/share.typeform.com/* *.github.com; style-src 'self' dwa5x7aod66zk.cloudfront.net 'unsafe-inline' www.google.com ajax.googleapis.com *.github.com
+Content-Type: text/html; charset=utf-8
+Etag: W/"91acf2e866b573b24a231715cedc1555"
+Cache-Control: max-age=0, private, must-revalidate
+Set-Cookie: _education_session=L3NiQzdUZURXWkFXaVpmT2RHeDM1M2dMRHRnSDNXbC8vb1c4czgrQ3RnVkFYNUlrRisxZENQb2dVVjJZRFRWSHpacmRja1pXUTBMMFFLNXlOc0F4NE5QUjVpa1Uvb2tmWVBtck9QOEcvWitySHhjL0ZveTFCVUJBWTI1Mm1ySkgwZmZSdytpTTc0S094SlJ3OVJoM1VGZjlQbFR0cTl0TEZKdWMxckdVcFJoYm5EWnhGSnFOeERSOW9Cbld0OUR0LS1scEw1VmRFNXpiVXQvaHBSZnJRUU1BPT0%3D--3c5d4c943577938e442d1f310f6a3c53763fcd92; path=/; secure; HttpOnly
+X-Request-Id: b1e53f4d-ea61-48ad-a12b-df0eac3f688e
+X-Runtime: 0.057378
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Transfer-Encoding: chunked
+Via: 1.1 vegur
+ uncompressed-len 0 predictor::resource-count 36 predictor::https://dwa5x7aod66zk.cloudfront.net/assets/public-0fd9990f5c6ed7007516f1199a014cf86050f03698ff9e71bec017edec571d9b.css 1,1,1550563417,4096 predictor::https://dwa5x7aod66zk.cloudfront.net/assets/print-a9082f7ad016417aca6891bd9301962f43d00fdfebb5cb114e08774e27cd5b8c.css 1,1,1550563417,4096 predictor::https://dwa5x7aod66zk.cloudfront.net/assets/public-bd0fae581f79744a1a51f774e251979d2ef4747341d7d065986e27599681ecf6.js 1,1,1550563417,4096 predictor::https://dwa5x7aod66zk.cloudfront.net/assets/next/wordmark-b2322266c45ea75318d0ea4481ab3c0aaa587af433ead331ba0ec402ad79fde9.svg 1,1,1550563417,4096 predictor::https://dwa5x7aod66zk.cloudfront.net/assets/sdp-backpack-a64038716bf134f45e809ff86b9611fb97e41bbd2ccfa3181da73cf164d3c200.png 1,1,1550563417,4096 net-response-time-onstart 5040 net-response-time-onstop 5465 predictor::https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-algolia-ffdda14127f9a76456d8730bb6a632ab41054f529577a17ce8635de3cade9559.jpg 1,1,1550563417,4096 predictor::https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-atom-b2600fd58b4ab395d398afb5af008d2e8596282321ba22f0becbf34383e545dc.jpg 1,1,1550563417,4096 predictor::https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-aws-educate-46363e7dc038b3e8f8ca342564870868e5c95e2790b54033ced3b8ab8ddfd96e.jpg 1,1,1550563417,4096 predictor::https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-bitnami-a3752e3ec5ba0ed5833bf2dfced7df37e3bb817543dfa40fb71c3cd1320b4f2c.jpg 1,1,1550563417,4096 predictor::https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-cartodb-5e3e0e113168e937bbb78dbd6d163a118e44d540a142ce936e5b50169105b632.jpg 1,1,1550563417,4096 predictor::https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-datadog-cf0a919b6a0d96b858ba497851bc8ceb4b5997e668054818700dc44a517c057d.jpg 1,1,1550563417,4096 predictor::https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-digitalocean-3d328c1d6619d314d47aab1259c1235b1339c343e12df62a688076bf6ceac866.jpg 1,1,1550563417,4096 predictor::https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-flatiron-53cac58d609c84ef4f277b22ae5624485d097bca3f63e02f5ba188f5de0e3f4a.jpg 1,1,1550563417,4096 predictor::https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-github-fe55a081ff239877f791f5882f9c3cddc371653c88d9b06f504ea10f453996ed.jpg 1,1,1550563417,4096 predictor::https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-ghdesktop-40ea908c1b55fd3e6356874e76bca24d5d0877001f4fdff29f34c02eacc35a9e.jpg 1,1,1550563417,4096 predictor::https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-gitkraken-c292786ac0b639afcda0a4d8531869e87cde5e40e255fe8684b0a19add839edd.jpg 1,1,1550563417,4096 predictor::https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-gitkraken-globoards-3c4ea346518b221b31073823bad9809a4645d2855518a272eb93fc3b3da2ec00.jpg 1,1,1550563417,4096 predictor::https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-heroku-9edb0d3ba7a8b154d3b68a5adfda931a6e5f7bb39284d0cae4843cd1604e3e9f.jpg 1,1,1550563417,4096 predictor::https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-jetbrains-f8afd8b5c788367a5a6cfb33a70a8741be61e0c8b810c374a5d505f1466751a2.jpg 1,1,1550563417,4096 predictor::https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-namecheap-7ecd22457a4ee5617490ba4cc16b1c15ee97c7ff87d5c47cea0352f7b87ab2b8.jpg 1,1,1550563417,4096 predictor::https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-sendgrid-2b9a140db728178d8259de852ba42eb5e157b470933b485b962ea3725322d820.jpg 1,1,1550563417,4096 predictor::https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-sentry-d34ca8315062bbf7780dd021a35cee6bdf69873ff624454e6a6a5f7d4ec5c7ea.jpg 1,1,1550563417,4096 predictor::https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-stripe-237d6b07f39b984f738aa58a92c9cb3c4a46856088cd344292db6172fd2ca74f.jpg 1,1,1550563417,4096 predictor::https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-taplytics-3e7ec081211316553669120b00ebd1d1e2eed789ea0988ceb3277034ca99f116.jpg 1,1,1550563417,4096 predictor::https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-thinkful-5729d69105c1b552a9750da30157674bcc5f8513c42cb400ae3bf76c4f246cbc.jpg 1,1,1550563417,4096 predictor::https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-transifex-ed22a1a1625990d51b166ba7586e2dee902c059599bb8eba08210075f6fddca1.jpg 1,1,1550563417,4096 predictor::https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-travis-e2f839c66f8d7138d47843053872935cee7c534f3750421f2c19e483fb75f040.jpg 1,1,1550563417,4096 predictor::https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-unreal-f6cc4143418ae22d5a7242fe372628ae68d3211e836a468207239f6033c96495.jpg 1,1,1550563417,4096 predictor::https://dwa5x7aod66zk.cloudfront.net/assets/photos/hackathon-264568facbe54b449d1f6abe1b00422bd49cd3ab34700d22285273f40bd652d1.jpg 1,1,1550563417,4096 predictor::https://platform.twitter.com/oct.js 1,1,1550563417,4096 predictor::https://platform.twitter.com/widgets.js 1,1,1550563417,4096 predictor::https://connect.facebook.net/en_US/sdk.js#xfbml=1&appId=1470168793264145&version=v2.0 1,1,1550563417,4096 predictor::https://www.google-analytics.com/analytics.js 1,1,1550563417,4096 predictor::https://platform.twitter.com/js/button.dd024c345fc26f7c7a8d9938b67e5d3d.js 1,1,1550563417,4096 predictor::https://connect.facebook.net/en_US/sdk.js?hash=a8ae5e3c094f039d367c9b640a926740 1,1,1550563417,4096 predictor::https://www.google-analytics.com/collect?v=1&_v=j73&a=724032011&t=pageview&_s=1&dl=https%3A%2F%2Feducation.github.com%2Fpack&dr=https%3A%2F%2Fgithub.com%2F&ul=en-us&de=UTF-8&dt=Student%20Developer%20Pack%20-%20GitHub%20Education&sd=24-bit&sr=800x600&vp=785x462&je=0&_u=IADAAAAB~&jid=&gjid=&cid=1527674265.1550533573&tid=UA-3769691-32&_gid=1576990242.1550563430&z=1041993864 1,1,1550563417,4096   èl
